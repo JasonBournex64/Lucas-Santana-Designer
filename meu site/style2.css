@@ -1,0 +1,204 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700|PT++Mono);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@100;500;600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@100;500;600&family=Roboto&display=swap');
+
+body{
+    background: rgb(36,1,84);
+    background: linear-gradient(90deg, rgba(36,1,84,1) 0%, rgba(31,0,111,1) 35%, rgba(95,3,172,1) 100%);
+    padding: 1%;
+
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins';
+    max-width: 1300px;
+    margin:0 auto;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+
+
+}
+
+#title{
+    flex-direction: column;
+    line-height: 15px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    
+    
+}
+
+#title h3{
+    font-size: 80%;
+    margin-top: -3%;
+    text-align: center;
+    color: rgb(216, 18, 140);
+}
+
+ul{
+    margin: 0;
+    padding:0;
+    
+}
+
+
+li{
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+    
+}
+
+li a {
+    padding: 5px 10px; 
+    margin:0;
+    border: 0px solid #f00; 
+    background: rgb(216, 18, 140);
+    text-decoration: none;
+    color:#FFF;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000;
+}
+
+hr{
+    height: 4px;
+   background-color: rgb(216, 18, 140);
+   border: none;
+   border-radius: 10px;
+}
+
+main img{
+    width: 45%;
+    margin-top: 10%;
+}
+
+main h1{
+
+    font-size: 150%;
+    margin-left: 55%;
+    margin-top: -35%;
+}
+
+.txtnome{
+
+    width: 330px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+
+    margin-left: 715px;
+    margin-top: -100px;
+
+    color: rgb(43, 43, 43);
+    font-size: 17px;
+
+    resize: none;
+    outline: 0;
+}
+
+
+.txtemail{
+    width: 330px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+
+    margin-left: 715px;
+    margin-top: -10px;   
+   
+
+    outline: 0;
+    color: rgb(43, 43, 43);
+    font-size: 17px;
+}
+
+
+
+.txtcelular{
+    width: 330px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+
+    margin-left: 715px;
+    margin-top: -10px;   
+    
+    outline: 0;
+    color: rgb(43, 43, 43);
+    font-size: 17px;
+}
+
+.txtmensagem{
+
+    width: 330px;
+    height: 100px;
+    border: none;
+    border-radius: 10px;
+
+    margin-left: 715px;
+    margin-top: -10px;
+    resize: none;
+    outline: 0;
+        
+    color: rgb(43, 43, 43);
+    font-size: 17px;
+
+
+}
+
+.tagnome{
+    margin-left: 716px;
+    margin-top: -2px;
+}
+
+.tagemail{
+    margin-left: 716px;
+
+}
+
+.tagcelular{
+    margin-left: 716px;
+}
+
+.tagmensagem{
+    margin-left: 716px;
+}
+
+.enviar{
+    margin-left: 716px;
+    border: none;
+    width: 334px;
+    height: 40px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(190, 20, 182);
+    font-size: 140%;
+    font-family: 'Poppins';
+    border-radius: 13px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    transition-duration: 0.2s;
+}
+
+.enviar:hover{
+
+    transform: scale(1.1);
+
+    }
