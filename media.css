@@ -1,0 +1,318 @@
+@media screen and (max-width: 760px){
+
+    header{
+        flex-direction: column;
+    }
+
+    header h1{
+        font-size: 20px;
+      margin-left: 20px;
+    }
+
+    header li a{
+        font-size: 11px;
+        padding: 2px 10px;
+      margin: -7px;
+        
+        
+    }
+
+    header ul{
+        margin-left: 254px;
+        margin-top: -35px; 
+    }
+
+    #title h3{
+        font-size: 12px;
+        margin-right: 160px;
+      
+    }
+
+
+    #imgweb{
+       width: 300px;
+       height: 200px;
+       margin-left: 180px;
+       margin-top: 20px;
+
+    }
+    main h1{
+        font-size: 26px;
+        margin-left: 15px;
+    }
+
+    main h4{
+        font-size: 25px;
+        margin-left: 15px;
+        margin-top: -20px;
+    }
+
+    main p{
+        margin-left: 26px;
+        height: 35px;
+        width: 150px;
+        margin: 10px;
+        padding: 1px 1px;
+        font-size: 150%;
+        margin-top: -20px;
+
+    }
+
+    hr{
+        height: 1px;
+    }
+    
+    .hr2{
+        height: 1px;
+    }
+
+    #port{
+       margin-left: -60px;
+       width: 700px;
+       padding-left: 15px;
+    
+
+    }
+
+    .bar-portfolio h1{
+        
+        margin-left: -30px;
+    }
+
+    .bar-portfolio{
+        height: 500px;
+        width: 440px;
+    }
+
+    .img1{
+     
+        width: 90px;
+        border-radius: 7px;
+        margin-left: 70px;
+        padding: 2px;
+
+      
+    }
+
+
+    .img2{
+        width: 90px;
+        border-radius: 7px;
+        margin-right: 100px;
+        padding: 2px;
+
+      
+    }
+
+    .img3{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: -100px;
+        padding: 2px;
+
+      
+    }
+
+    .img4{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: -0.1px;
+        padding: 2px;
+
+       
+    }
+
+    .img5{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: -393px;
+        margin-bottom: -100px;
+        padding: 2px;
+    
+    
+    }
+
+    
+    #port2{
+        margin-left: -60px;
+        width: 10px;
+        height: 150px;
+        margin-top: -417px;
+        padding-left: 15px;
+      
+     }
+
+     .img6{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: 168px;
+        margin-bottom: 80px;
+        margin-top: 75px;
+        padding: 2px;
+    
+        
+    }
+
+    .img7{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: 267px;
+
+        margin-bottom: 105px;
+        margin-top: -255px;
+           
+        padding: 2px;
+    
+    
+    }
+  
+    .img8{
+        width: 90px;
+        border-radius: 7px;
+        margin-left: 367px;
+        margin-bottom: 130px;
+        margin-top: -255px;
+        padding: 2px;
+    
+        
+    }
+
+    .bar-orçamento p{
+        margin-left: -40px;
+       
+        
+        height: 1px;
+
+    }
+
+    .bar-orçamento{
+        height: 700px;
+        width: 440px;
+    }
+  
+  .iconpc{
+    margin-left: 19px;
+    height: 33px;
+    width: 40px;
+
+    margin-top: -10px;
+
+    
+ }
+
+
+.iconweb{
+
+    margin-left: 170px;
+    margin-top: -135px;
+    height: 33px;
+    width: 40px;
+    
+
+}
+
+
+.iconsmart{
+    margin-left: 340px;
+    height: 30px;
+    width: 15px;
+    margin-top: -135px;
+}
+
+.orçamento{
+
+    margin-top: 130px;
+}
+
+.icones{
+    margin-top: -530px;
+}
+
+
+
+.tagiconpc{
+    font-size: 13px;
+    margin-left: -10px;
+    margin-top: -20px;
+    display: flex;
+   
+    width: 108px;
+    height: 3px;
+}
+
+.tagiconpc2{
+    font-size: 10px;
+    margin-left: -10px;
+    margin-top: -35px;
+    display: flex;
+    width: 108px;
+    height: 3px;
+
+}
+
+
+.tagiconweb{
+    font-size: 13px;
+    margin-left: 150px;
+    margin-top: -13px;
+    display: flex;
+   
+    width: 79px;
+    height: 0px;
+}
+
+.tagiconweb2{
+    font-size: 10px;
+    margin-left: 135px;
+    margin-top: -29px;
+
+    display: flex;
+    width: 108px;
+    height: 3px;
+}
+
+.tagiconsmart{
+    font-size: 13px;
+    margin-left: 280px;
+    margin-top: -13px;
+    display: flex;
+   
+    width: 130px;
+    height: 0px;
+}
+
+
+.tagiconsmart2{
+    font-size: 10px;
+    margin-left: 295px;
+    margin-top: -29px;
+
+    display: flex;
+    width: 108px;
+    height: 3px;
+}
+
+.face{
+
+    width: 30px;
+    margin-left: 100px;
+
+}
+
+.insta{
+    width: 50px;
+    margin-left: 55px;
+}
+
+.whats{
+
+    width: 50px;
+    margin-left: 55px;
+    
+}
+
+
+
+}
+
+
